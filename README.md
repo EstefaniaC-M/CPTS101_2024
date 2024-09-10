@@ -1,1 +1,4 @@
-Hello I am Cameron and I am cooler than Estefania
+Estefania Correa-Mendez
+e.correa-mendez@wsu.edu
+
+They call me the git lord
